@@ -13,7 +13,7 @@ Building an autonomous Instagram account which automatically generate prompt, cr
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://user-images.githubusercontent.com/38634222/272070195-568cea94-c3f5-4ffd-9e52-4bd6beb3909c.jpeg" width=180 height=380></a></td>
+    <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://user-images.githubusercontent.com/38634222/272082421-e35c8083-3924-4951-9945-8314432b8419.gif" width=180 height=380></a></td>
     <td></td>
   </tr>
  </table>
