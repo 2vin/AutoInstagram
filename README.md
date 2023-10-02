@@ -37,14 +37,14 @@ python autoInstagram.py
 ```
 And wait for the magic to begin :)
 
-## Live Demo here
+## Live Demo
 
 <table>
   <tr>
     <td>Instagram.com/Robot.Fandom</td>
   </tr>
   <tr>
-    <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcKr32CJ577C8VhIEYYRMDrfSifhtUYScuBwDehVI5wbyX5FcvmEHuz8wA_9CCsh_mw&usqp=CAU" width=320 height=40> </a> </td>
+    <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcKr32CJ577C8VhIEYYRMDrfSifhtUYScuBwDehVI5wbyX5FcvmEHuz8wA_9CCsh_mw&usqp=CAU" width=260 height=40> </a> </td>
   </tr>
  </table>
 
