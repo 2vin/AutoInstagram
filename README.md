@@ -10,7 +10,7 @@ Building an autonomous Instagram account which automatically generate prompt, cr
     <td>AutoInstagram</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/38634222/272070195-568cea94-c3f5-4ffd-9e52-4bd6beb3909c.jpeg" width=180 height=380></td>
+    <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://user-images.githubusercontent.com/38634222/272070195-568cea94-c3f5-4ffd-9e52-4bd6beb3909c.jpeg" width=180 height=380></a></td>
   </tr>
  </table>
  
@@ -40,7 +40,7 @@ And wait for the magic to begin :)
     <td>Image 1</td>
   </tr>
   <tr>
-    <td><a href="https://link-to-where-you-want-to-redirect.com"> <img src="https://github.com/2vin/PyYAT/blob/master/data/1.jpg" width=320 height=240> </a> </td>
+    <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcKr32CJ577C8VhIEYYRMDrfSifhtUYScuBwDehVI5wbyX5FcvmEHuz8wA_9CCsh_mw&usqp=CAU" width=320 height=60> </a> </td>
   </tr>
  </table>
 
