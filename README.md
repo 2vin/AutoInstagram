@@ -37,6 +37,7 @@ python autoInstagram.py
 ```
 And wait for the magic to begin :)
 
+
 ## Live Demo
 
 <table>
