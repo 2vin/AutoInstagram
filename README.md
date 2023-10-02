@@ -10,7 +10,7 @@ Building an autonomous Instagram account which automatically generate prompt, cr
     <td>AutoInstagram</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/38634222/272070195-568cea94-c3f5-4ffd-9e52-4bd6beb3909c.jpeg" width=360 height=760></td>
+    <td><img src="https://user-images.githubusercontent.com/38634222/272070195-568cea94-c3f5-4ffd-9e52-4bd6beb3909c.jpeg" width=180 height=380></td>
   </tr>
  </table>
  
