@@ -7,10 +7,14 @@ Building an autonomous Instagram account which automatically generate prompt, cr
 
 <table>
   <tr>
+    <td></td>
     <td>AutoInstagram</td>
+    <td></td>
   </tr>
   <tr>
+    <td></td>
     <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://user-images.githubusercontent.com/38634222/272070195-568cea94-c3f5-4ffd-9e52-4bd6beb3909c.jpeg" width=180 height=380></a></td>
+    <td></td>
   </tr>
  </table>
  
@@ -37,10 +41,10 @@ And wait for the magic to begin :)
 
 <table>
   <tr>
-    <td>Image 1</td>
+    <td>Instagram.com/Robot.Fandom</td>
   </tr>
   <tr>
-    <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcKr32CJ577C8VhIEYYRMDrfSifhtUYScuBwDehVI5wbyX5FcvmEHuz8wA_9CCsh_mw&usqp=CAU" width=320 height=60> </a> </td>
+    <td><a href="https://www.instagram.com/robot.fandom/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcKr32CJ577C8VhIEYYRMDrfSifhtUYScuBwDehVI5wbyX5FcvmEHuz8wA_9CCsh_mw&usqp=CAU" width=320 height=40> </a> </td>
   </tr>
  </table>
 
